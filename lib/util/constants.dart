@@ -1,0 +1,4 @@
+const status = [
+  "Comprar",
+  "Comprados"
+];
